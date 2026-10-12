@@ -41,7 +41,14 @@ The backend follows a layered architecture:
 MySQL is used to store event details, including event name, date, time, venue, description, and available seats.
 
 ## Backend Screenshot
-A screenshot of the running backend API response will be added here.
+### 1. Backend API Response
+![Backend API Response](./be.png)
+
+### 2. Delete Event
+![Delete Event Screenshot](./delete_event.be.png)
+
+### 3. Edit Event
+![Edit Event Screenshot](./edit_event_be.png)
 
 ## Conclusion
 This backend demonstrates CRUD operations, REST API development, and database integration using Java Spring Boot and MySQL.
